@@ -8,4 +8,4 @@ Building real projects at Gritlab, Åland | Open to opportunities in Finland**
 
 🌐 Portfolio → [mareerray.github.io/devmayuree](https://mareerray.github.io/devmayuree/)
 
-🌐 Portfolio II → [mareerray.github.io/devmayuree](https://mayuree-dev.vercel.app/)
+🌐 Portfolio II → [mayuree-dev.vercel.app](https://mayuree-dev.vercel.app/)

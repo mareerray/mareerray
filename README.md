@@ -7,3 +7,5 @@ multiplayer games to interactive sky maps. Graduating from Gritlab in August
 Building real projects at Gritlab, Åland | Open to opportunities in Finland**
 
 🌐 Portfolio → [mareerray.github.io/devmayuree](https://mareerray.github.io/devmayuree/)
+
+🌐 Portfolio II → [mareerray.github.io/devmayuree](https://mayuree-dev.vercel.app/)

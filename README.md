@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD6E8,100:C3A6F7&height=200&section=header&text=Mayuree%20Reunsati&fontSize=44&fontColor=1E1B2E&desc=Frontend%20%26%20Mobile%20Developer&descAlignY=75&descSize=18" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD6E8,100:C3A6F7&height=200&section=header&text=Mayuree%20Reunsati&fontSize=44&fontColor=1E1B2E&desc=Frontend%20and%20Mobile%20Developer&descAlignY=75&descSize=18" alt="header" />
 </p>
 
 <!-- ABOUT -->
@@ -52,7 +52,7 @@ multiplayer games to interactive sky maps. Graduating from gritlab in August
 </p>
 
 <!-- STATS -->
-## Stats
+<!-- ## Stats-->
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mareerray&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
@@ -66,11 +66,4 @@ multiplayer games to interactive sky maps. Graduating from gritlab in August
 <!-- FOOTER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD6E8,100:C3A6F7&height=80&section=footer" alt="footer" />
-</p>
-Frontend%20%26%20Mobile%20Roles%20in%20Finland-22C55E?style=flat-square" alt="status" />
-</p>
-
-<!-- FOOTER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E293B,100:334155&height=80&section=footer" alt="footer" />
 </p>

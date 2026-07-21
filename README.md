@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD6E8,100:C3A6F7&height=200&section=header&text=Mayuree%20Reunsati&fontSize=44&fontColor=1E1B2E&desc=Frontend%20and%20Mobile%20Developer&descAlignY=75&descSize=18" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD6E8,100:C3A6F7&height=200&section=header&text=Mayuree%20Reunsati&fontSize=44&fontColor=1E1B2E" alt="header" />
 </p>
 
 <!-- ABOUT -->

@@ -24,9 +24,11 @@ multiplayer games to interactive sky maps. Graduating from gritlab in August
   <a href="https://mareerray.github.io/devmayuree/" title="Right-click to open in a new tab">
     <img src="https://img.shields.io/badge/devmayuree-181717?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
+  
   <a href="https://github.com/mareerray" title="Right-click to open in a new tab">
     <img src="https://img.shields.io/badge/mareerray-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
+  
   <a href="https://www.linkedin.com/in/mayuree-reunsati" title="Right-click to open in a new tab">
     <img src="https://img.shields.io/badge/-LinkedIn-181717?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -70,6 +72,9 @@ multiplayer games to interactive sky maps. Graduating from gritlab in August
       <p align="center">
         <img src="https://raw.githubusercontent.com/mareerray/mareerray/main/assets/icons/worldcup2026-tracker-icon.png" width="60" height="60" style="border-radius:12px;" alt="World Cup 2026 Tracker" /><br/>
         <b>World Cup 2026 Tracker</b><br/>
+        <a href="https://worldcup2026-tracker-app.vercel.app/" title="Right-click to open in a new tab">
+<img src="https://img.shields.io/badge/Installable%20App-C3A6F7?style=plastic&logo=googlechrome&logoColor=1E1B2E" alt="Installable" height="14" valign="middle" />
+</a><br/>
         <sub>Match tracker recording the full 2026 World Cup — scores, standings, and fixtures from start to finish.</sub><br/><br/>
         <a href="https://worldcup2026-tracker-app.vercel.app/" title="Right-click to open in a new tab">
           <img src="https://img.shields.io/badge/View%20App-C3A6F7?style=for-the-badge&logoColor=1E1B2E" alt="View App" />
@@ -80,6 +85,9 @@ multiplayer games to interactive sky maps. Graduating from gritlab in August
       <p align="center">
         <img src="https://raw.githubusercontent.com/mareerray/mareerray/main/assets/icons/budget_buddy_icon.png" width="60" height="60" style="border-radius:12px;" alt="Budgie" /><br/>
         <b>Budgie</b><br/>
+        <a href="https://budgie-dun.vercel.app/" title="Right-click to open in a new tab">
+  <img src="https://img.shields.io/badge/Installable%20App-C3A6F7?style=plastic&logo=googlechrome&logoColor=1E1B2E" alt="Installable" height="14" valign="middle" />
+</a><br/>
         <sub>Budget tracker for income, expenses, and savings goals.</sub><br/>
         <sub>📊 spending bars & trends.</sub><br/><br/>
         <a href="https://budgie-dun.vercel.app/" title="Right-click to open in a new tab">
@@ -93,6 +101,9 @@ multiplayer games to interactive sky maps. Graduating from gritlab in August
       <p align="center">
         <img src="https://raw.githubusercontent.com/mareerray/mareerray/main/assets/icons/daily-todo-icon.png" width="60" height="60" style="border-radius:12px;" alt="Daily Todo" /><br/>
         <b>Daily Todo App</b><br/>
+        <a href="https://mareerray.github.io/daily-todo-list/" title="Right-click to open in a new tab">
+  <img src="https://img.shields.io/badge/Installable%20App-C3A6F7?style=plastic&logo=googlechrome&logoColor=1E1B2E" alt="Installable" height="14" valign="middle" />
+</a><br/>
         <sub>Simple daily task manager to stay organized.</sub><br/><br/>
         <a href="https://mareerray.github.io/daily-todo-list/" title="Right-click to open in a new tab">
           <img src="https://img.shields.io/badge/View%20App-C3A6F7?style=for-the-badge&logoColor=1E1B2E" alt="View App" />
@@ -102,7 +113,10 @@ multiplayer games to interactive sky maps. Graduating from gritlab in August
     <td width="50%" valign="top">
       <p align="center">
         <img src="https://raw.githubusercontent.com/mareerray/mareerray/main/assets/icons/gochess-icon.png" width="60" height="60" style="border-radius:12px;" alt="GoChess" /><br/>
-        <b>GoChess App</b><br/>
+        <b>GoChess</b><br/>
+        <a href="https://chess-webapp-sks0.onrender.com/" title="Right-click to open in a new tab">
+  <img src="https://img.shields.io/badge/Installable%20App-C3A6F7?style=plastic&logo=googlechrome&logoColor=1E1B2E" alt="Installable" height="14" valign="middle" />
+</a><br/>
         <sub>Real-time multiplayer chess and practice bot.</sub><br/><br/>
         <a href="https://chess-webapp-sks0.onrender.com/" title="Right-click to open in a new tab">
           <img src="https://img.shields.io/badge/View%20App-C3A6F7?style=for-the-badge&logoColor=1E1B2E" alt="View App" />

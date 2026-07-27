@@ -103,7 +103,7 @@ multiplayer games to interactive sky maps. Graduating from gritlab in August
       <p align="center">
         <img src="https://raw.githubusercontent.com/mareerray/mareerray/main/assets/icons/gochess-icon.png" width="60" height="60" style="border-radius:12px;" alt="GoChess App" /><br/>
         <b>GoChess App</b><br/>
-        <sub>Real-time multiplayer chess built with Go and WebSocket.</sub><br/><br/>
+        <sub>Real-time multiplayer chess and practice bot.</sub><br/><br/>
         <a href="https://chess-webapp-sks0.onrender.com/">
           <img src="https://img.shields.io/badge/View%20App-C3A6F7?style=for-the-badge&logoColor=1E1B2E" alt="View App" />
         </a>

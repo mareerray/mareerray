@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD6E8,100:C3A6F7&height=200&section=header&text=Mayuree%20Reunsati&fontSize=44&fontColor=1E1B2E" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD6E8,100:C3A6F7&height=200&section=header&text=Mayuree%20Reunsati&fontSize=44&fontColor=1E1B2E" alt="header" width="100%"/>
 </p>
 
 <!-- TYPING SVG -->
@@ -70,7 +70,7 @@ multiplayer games to interactive sky maps. Graduating from gritlab in August
       <p align="center">
         <img src="https://raw.githubusercontent.com/mareerray/mareerray/main/assets/icons/worldcup2026-tracker-icon.png" width="60" height="60" style="border-radius:12px;" alt="World Cup 2026 Tracker" /><br/>
         <b>World Cup 2026 Tracker</b><br/>
-        <sub>Real-time match tracker with scores, standings, and fixtures.</sub><br/><br/>
+        <sub>Match tracker recording the full 2026 World Cup — scores, standings, and fixtures from start to finish.</sub><br/><br/>
         <a href="https://worldcup2026-tracker-app.vercel.app/">
           <img src="https://img.shields.io/badge/View%20App-C3A6F7?style=for-the-badge&logoColor=1E1B2E" alt="View App" />
         </a>
@@ -81,7 +81,7 @@ multiplayer games to interactive sky maps. Graduating from gritlab in August
         <img src="https://raw.githubusercontent.com/mareerray/mareerray/main/assets/icons/budget_buddy_icon.png" width="60" height="60" style="border-radius:12px;" alt="Budgie" /><br/>
         <b>Budgie</b><br/>
         <sub>Budget tracker for income, expenses, and savings goals.</sub><br/>
-        <sub>📊 Mood tracking, tap tips, spending bars & trends</sub><br/><br/>
+        <sub>📊 spending bars & trends.</sub><br/><br/>
         <a href="https://budgie-dun.vercel.app/">
           <img src="https://img.shields.io/badge/View%20App-C3A6F7?style=for-the-badge&logoColor=1E1B2E" alt="View App" />
         </a>
@@ -91,7 +91,7 @@ multiplayer games to interactive sky maps. Graduating from gritlab in August
   <tr>
     <td width="50%" valign="top">
       <p align="center">
-        <img src="https://raw.githubusercontent.com/mareerray/mareerray/main/assets/icons/daily-todo-icon.png" width="60" height="60" style="border-radius:12px;" alt="Daily Todo App" /><br/>
+        <img src="https://raw.githubusercontent.com/mareerray/mareerray/main/assets/icons/daily-todo-icon.png" width="60" height="60" style="border-radius:12px;" alt="Daily Todo" /><br/>
         <b>Daily Todo App</b><br/>
         <sub>Simple daily task manager to stay organized.</sub><br/><br/>
         <a href="https://mareerray.github.io/daily-todo-list/">
@@ -101,7 +101,7 @@ multiplayer games to interactive sky maps. Graduating from gritlab in August
     </td>
     <td width="50%" valign="top">
       <p align="center">
-        <img src="https://raw.githubusercontent.com/mareerray/mareerray/main/assets/icons/gochess-icon.png" width="60" height="60" style="border-radius:12px;" alt="GoChess App" /><br/>
+        <img src="https://raw.githubusercontent.com/mareerray/mareerray/main/assets/icons/gochess-icon.png" width="60" height="60" style="border-radius:12px;" alt="GoChess" /><br/>
         <b>GoChess App</b><br/>
         <sub>Real-time multiplayer chess and practice bot.</sub><br/><br/>
         <a href="https://chess-webapp-sks0.onrender.com/">
@@ -115,7 +115,7 @@ multiplayer games to interactive sky maps. Graduating from gritlab in August
       <p align="center">
         <img src="https://raw.githubusercontent.com/mareerray/mareerray/main/assets/icons/piscine-js-igen-icon.png" width="60" height="60" style="border-radius:12px;" alt="Piscine JS Igen" /><br/>
         <b>Piscine-js-igen</b><br/>
-        <sub>JavaScript exercises from the grit:lab Piscine JS program.</sub><br/><br/>
+        <sub>Duck Hunt-style single-player game — use your keyboard to shoot letters and spell JavaScript words.</sub><br/><br/>
         <a href="https://mareerray.github.io/piscine-js-igen/">
           <img src="https://img.shields.io/badge/View%20App-C3A6F7?style=for-the-badge&logoColor=1E1B2E" alt="View App" />
         </a>
@@ -125,7 +125,7 @@ multiplayer games to interactive sky maps. Graduating from gritlab in August
       <p align="center">
         <img src="https://raw.githubusercontent.com/mareerray/mareerray/main/assets/icons/colorcurio-icon.png" width="60" height="60" style="border-radius:12px;" alt="ColorCurio" /><br/>
         <b>ColorCurio</b><br/>
-        <sub>Interactive tool to discover and explore colors.</sub><br/><br/>
+        <sub>Explore color harmonies, extract palettes from images, and browse 30+ curated palettes.</sub><br/><br/>
         <a href="https://mareerray.github.io/ColorCurio/">
           <img src="https://img.shields.io/badge/View%20App-C3A6F7?style=for-the-badge&logoColor=1E1B2E" alt="View App" />
         </a>
@@ -151,5 +151,5 @@ multiplayer games to interactive sky maps. Graduating from gritlab in August
 
 <!-- FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD6E8,100:C3A6F7&height=80&section=footer" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD6E8,100:C3A6F7&height=80&section=footer" alt="footer" width="100%"/>
 </p>

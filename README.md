@@ -61,6 +61,79 @@ multiplayer games to interactive sky maps. Graduating from gritlab in August
   <img src="https://img.shields.io/badge/GitHub-A2A2A2?style=for-the-badge&logo=github&logoColor=1E1B2E" alt="GitHub" />
 </p>
 
+<!-- KEY PROJECTS -->
+## Key Projects
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <p align="center">
+        <img src="https://raw.githubusercontent.com/mareerray/mareerray/main/assets/icons/worldcup2026-tracker-icon.png" width="60" height="60" style="border-radius:12px;" alt="World Cup 2026 Tracker" /><br/>
+        <b>World Cup 2026 Tracker</b><br/>
+        <sub>Real-time match tracker with scores, standings, and fixtures.</sub><br/><br/>
+        <a href="https://worldcup2026-tracker-app.vercel.app/">
+          <img src="https://img.shields.io/badge/View%20App-C3A6F7?style=for-the-badge&logoColor=1E1B2E" alt="View App" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <p align="center">
+        <img src="https://raw.githubusercontent.com/mareerray/mareerray/main/assets/icons/budget_buddy_icon.png" width="60" height="60" style="border-radius:12px;" alt="Budgie" /><br/>
+        <b>Budgie</b><br/>
+        <sub>Budget tracker for income, expenses, and savings goals.</sub><br/>
+        <sub>📊 Mood tracking, tap tips, spending bars & trends</sub><br/><br/>
+        <a href="https://budgie-dun.vercel.app/">
+          <img src="https://img.shields.io/badge/View%20App-C3A6F7?style=for-the-badge&logoColor=1E1B2E" alt="View App" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p align="center">
+        <img src="https://raw.githubusercontent.com/mareerray/mareerray/main/assets/icons/daily-todo-icon.png" width="60" height="60" style="border-radius:12px;" alt="Daily Todo App" /><br/>
+        <b>Daily Todo App</b><br/>
+        <sub>Simple daily task manager to stay organized.</sub><br/><br/>
+        <a href="https://mareerray.github.io/daily-todo-list/">
+          <img src="https://img.shields.io/badge/View%20App-C3A6F7?style=for-the-badge&logoColor=1E1B2E" alt="View App" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <p align="center">
+        <img src="https://raw.githubusercontent.com/mareerray/mareerray/main/assets/icons/gochess-icon.png" width="60" height="60" style="border-radius:12px;" alt="GoChess App" /><br/>
+        <b>GoChess App</b><br/>
+        <sub>Real-time multiplayer chess built with Go and WebSocket.</sub><br/><br/>
+        <a href="https://chess-webapp-sks0.onrender.com/">
+          <img src="https://img.shields.io/badge/View%20App-C3A6F7?style=for-the-badge&logoColor=1E1B2E" alt="View App" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p align="center">
+        <img src="https://raw.githubusercontent.com/mareerray/mareerray/main/assets/icons/piscine-js-igen-icon.png" width="60" height="60" style="border-radius:12px;" alt="Piscine JS Igen" /><br/>
+        <b>Piscine-js-igen</b><br/>
+        <sub>JavaScript exercises from the grit:lab Piscine JS program.</sub><br/><br/>
+        <a href="https://mareerray.github.io/piscine-js-igen/">
+          <img src="https://img.shields.io/badge/View%20App-C3A6F7?style=for-the-badge&logoColor=1E1B2E" alt="View App" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <p align="center">
+        <img src="https://raw.githubusercontent.com/mareerray/mareerray/main/assets/icons/colorcurio-icon.png" width="60" height="60" style="border-radius:12px;" alt="ColorCurio" /><br/>
+        <b>ColorCurio</b><br/>
+        <sub>Interactive tool to discover and explore colors.</sub><br/><br/>
+        <a href="https://mareerray.github.io/ColorCurio/">
+          <img src="https://img.shields.io/badge/View%20App-C3A6F7?style=for-the-badge&logoColor=1E1B2E" alt="View App" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
 <!-- STATS -->
 <!-- ## Stats
 

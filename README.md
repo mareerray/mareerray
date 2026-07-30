@@ -77,7 +77,10 @@ multiplayer games to interactive sky maps. Graduating from gritlab in August
 </a><br/>
         <sub>Match tracker recording the full 2026 World Cup — scores, standings, and fixtures from start to finish.</sub><br/><br/>
         <a href="https://worldcup2026-tracker-app.vercel.app/" title="Right-click to open in a new tab">
-          <img src="https://img.shields.io/badge/View%20App-C3A6F7?style=for-the-badge&logoColor=1E1B2E" alt="View App" />
+          <img src="https://img.shields.io/badge/View%20App-181717?style=for-the-badge&logoColor=white" alt="View App" />
+        </a>
+        <a href="https://github.com/mareerray/worldcup2026-tracker" title="View source on GitHub" target="_blank">
+          <img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
         </a>
       </p>
     </td>
@@ -91,7 +94,10 @@ multiplayer games to interactive sky maps. Graduating from gritlab in August
         <sub>Budget tracker for income, expenses, and savings goals.</sub><br/>
         <sub>📊 spending bars & trends.</sub><br/><br/>
         <a href="https://budgie-dun.vercel.app/" title="Right-click to open in a new tab">
-          <img src="https://img.shields.io/badge/View%20App-C3A6F7?style=for-the-badge&logoColor=1E1B2E" alt="View App" />
+          <img src="https://img.shields.io/badge/View%20App-181717?style=for-the-badge&logoColor=white" alt="View App" />
+        </a>
+        <a href="https://github.com/mareerray/budget-buddy" title="View source on GitHub" target="_blank">
+          <img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
         </a>
       </p>
     </td>
@@ -106,7 +112,10 @@ multiplayer games to interactive sky maps. Graduating from gritlab in August
 </a><br/>
         <sub>Simple daily task manager with multi-language support to stay organized.</sub><br/><br/>
         <a href="https://mareerray.github.io/daily-todo-list/" title="Right-click to open in a new tab">
-          <img src="https://img.shields.io/badge/View%20App-C3A6F7?style=for-the-badge&logoColor=1E1B2E" alt="View App" />
+          <img src="https://img.shields.io/badge/View%20App-181717?style=for-the-badge&logoColor=white" alt="View App" />
+        </a>
+        <a href="https://github.com/mareerray/daily-todo-list" title="View source on GitHub" target="_blank">
+          <img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
         </a>
       </p>
     </td>
@@ -119,7 +128,10 @@ multiplayer games to interactive sky maps. Graduating from gritlab in August
 </a><br/>
         <sub>Real-time multiplayer chess and practice bot.</sub><br/><br/>
         <a href="https://chess-webapp-sks0.onrender.com/" title="Right-click to open in a new tab">
-          <img src="https://img.shields.io/badge/View%20App-C3A6F7?style=for-the-badge&logoColor=1E1B2E" alt="View App" />
+          <img src="https://img.shields.io/badge/View%20App-181717?style=for-the-badge&logoColor=white" alt="View App" />
+        </a>
+        <a href="https://github.com/mareerray/chess" title="View source on GitHub" target="_blank">
+          <img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
         </a>
       </p>
     </td>
@@ -131,7 +143,10 @@ multiplayer games to interactive sky maps. Graduating from gritlab in August
         <b>Piscine-js-igen</b><br/>
         <sub>Duck Hunt-style single-player game — use your keyboard to shoot letters and spell JavaScript words.</sub><br/><br/>
         <a href="https://mareerray.github.io/piscine-js-igen/" title="Right-click to open in a new tab">
-          <img src="https://img.shields.io/badge/View%20App-C3A6F7?style=for-the-badge&logoColor=1E1B2E" alt="View App" />
+          <img src="https://img.shields.io/badge/View%20App-181717?style=for-the-badge&logoColor=white" alt="View App" />
+        </a>
+        <a href="https://github.com/mareerray/piscine-js-igen" title="View source on GitHub" target="_blank">
+          <img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
         </a>
       </p>
     </td>
@@ -141,7 +156,10 @@ multiplayer games to interactive sky maps. Graduating from gritlab in August
         <b>ColorCurio</b><br/>
         <sub>Explore color harmonies, extract palettes from images, and browse 30+ curated palettes.</sub><br/><br/>
         <a href="https://mareerray.github.io/ColorCurio/" title="Right-click to open in a new tab">
-          <img src="https://img.shields.io/badge/View%20App-C3A6F7?style=for-the-badge&logoColor=1E1B2E" alt="View App" />
+          <img src="https://img.shields.io/badge/View%20App-181717?style=for-the-badge&logoColor=white" alt="View App" />
+        </a>
+        <a href="https://github.com/mareerray/ColorCurio" title="View source on GitHub" target="_blank">
+          <img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
         </a>
       </p>
     </td>

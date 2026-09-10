@@ -107,7 +107,7 @@ multiplayer games to interactive sky maps. Graduating from gritlab in August
       <p align="center">
         <img src="https://raw.githubusercontent.com/mareerray/mareerray/main/assets/icons/daily-todo-icon.png" width="60" height="60" style="border-radius:12px;" alt="Daily Todo" /><br/>
         <b>Daily Todo App</b><br/>
-        <a href="https://mareerray.github.io/daily-todo-list/" title="Right-click to open in a new tab">
+        <a href="https://dailytodo-xi.vercel.app/" title="Right-click to open in a new tab">
   <img src="https://img.shields.io/badge/Installable%20App-C3A6F7?style=plastic&logo=googlechrome&logoColor=1E1B2E" alt="Installable" height="14" valign="middle" />
 </a><br/>
         <sub>Simple daily task manager with multi-language support to stay organized.</sub><br/><br/>

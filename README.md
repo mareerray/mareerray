@@ -86,6 +86,24 @@ multiplayer games to interactive sky maps. Graduating from gritlab in August
     </td>
     <td width="50%" valign="top">
       <p align="center">
+        <img src="https://raw.githubusercontent.com/mareerray/mareerray/main/assets/icons/daily-todo-icon.png" width="60" height="60" style="border-radius:12px;" alt="Daily Todo" /><br/>
+        <b>Daily Todo App</b><br/>
+        <a href="https://dailytodo-xi.vercel.app/" title="Right-click to open in a new tab">
+  <img src="https://img.shields.io/badge/Installable%20App-C3A6F7?style=plastic&logo=googlechrome&logoColor=1E1B2E" alt="Installable" height="14" valign="middle" />
+</a><br/>
+        <sub>Simple daily task manager with multi-language support to stay organized.</sub><br/><br/>
+        <a href="https://dailytodo-xi.vercel.app/" title="Right-click to open in a new tab">
+          <img src="https://img.shields.io/badge/View%20App-181717?style=for-the-badge&logoColor=white" alt="View App" />
+        </a>
+        <a href="https://github.com/mareerray/daily-todo-list" title="View source on GitHub" target="_blank">
+          <img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p align="center">
         <img src="https://raw.githubusercontent.com/mareerray/mareerray/main/assets/icons/budget_buddy_icon.png" width="60" height="60" style="border-radius:12px;" alt="Budgie" /><br/>
         <b>Budgie</b><br/>
         <a href="https://budgie-dun.vercel.app/" title="Right-click to open in a new tab">
@@ -97,24 +115,6 @@ multiplayer games to interactive sky maps. Graduating from gritlab in August
           <img src="https://img.shields.io/badge/View%20App-181717?style=for-the-badge&logoColor=white" alt="View App" />
         </a>
         <a href="https://github.com/mareerray/budget-buddy" title="View source on GitHub" target="_blank">
-          <img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p align="center">
-        <img src="https://raw.githubusercontent.com/mareerray/mareerray/main/assets/icons/daily-todo-icon.png" width="60" height="60" style="border-radius:12px;" alt="Daily Todo" /><br/>
-        <b>Daily Todo App</b><br/>
-        <a href="https://dailytodo-xi.vercel.app/" title="Right-click to open in a new tab">
-  <img src="https://img.shields.io/badge/Installable%20App-C3A6F7?style=plastic&logo=googlechrome&logoColor=1E1B2E" alt="Installable" height="14" valign="middle" />
-</a><br/>
-        <sub>Simple daily task manager with multi-language support to stay organized.</sub><br/><br/>
-        <a href="https://dailytodo-xi.vercel.app/" title="Right-click to open in a new tab">
-          <img src="https://img.shields.io/badge/View%20App-181717?style=for-the-badge&logoColor=white" alt="View App" />
-        </a>
-        <a href="https://github.com/mareerray/daily-todo-list" title="View source on GitHub" target="_blank">
           <img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
         </a>
       </p>

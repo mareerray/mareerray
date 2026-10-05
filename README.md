@@ -75,7 +75,7 @@ multiplayer games to interactive sky maps. Graduating from gritlab in August
         <a href="https://worldcup2026-tracker-app.vercel.app/" title="Right-click to open in a new tab">
 <img src="https://img.shields.io/badge/Installable%20App-C3A6F7?style=plastic&logo=googlechrome&logoColor=1E1B2E" alt="Installable" height="14" valign="middle" />
 </a><br/>
-        <sub>Match tracker recording the full 2026 World Cup — scores, standings, and fixtures from start to finish.</sub><br/><br/>
+        <sub>Match tracker recording the full 2026 World Cup — scores, standings, and analytics from start to finish.</sub><br/><br/>
         <a href="https://worldcup2026-tracker-app.vercel.app/" title="Right-click to open in a new tab">
           <img src="https://img.shields.io/badge/View%20App-181717?style=for-the-badge&logoColor=white" alt="View App" />
         </a>

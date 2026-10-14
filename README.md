@@ -5,12 +5,12 @@
 <!-- TYPING SVG -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=C3A6F7&center=true&vCenter=true&width=500&lines=Frontend+and+mobile+developer;Building+clean+web+and+Flutter+apps;Open+to+roles+in+Finland" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=C3A6F7&center=true&vCenter=true&width=500&lines=Fullstack+and+mobile+developer;Building+clean+web+and+Flutter+apps;Open+to+roles+in+Finland" alt="Typing SVG" />
   </a>
 </p>
 
 <!-- ABOUT -->
-Hi! <img src="https://img.shields.io/badge/I'm%20a%20Frontend%20%26%20Mobile%20Developer-4A154B?style=for-the-badge" alt="role" valign="middle"/> based in Finland.
+Hi! <img src="https://img.shields.io/badge/I'm%20a%20Fullstack%20%26%20Mobile%20Developer-4A154B?style=for-the-badge" alt="role" valign="middle"/> based in Finland.
 I build clean web interfaces and cross-platform Flutter apps, from real-time
 multiplayer games to interactive sky maps. Graduating from gritlab in August
 2026 and actively looking for frontend or mobile development roles in Finland. 

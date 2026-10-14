@@ -13,7 +13,7 @@
 Hi! <img src="https://img.shields.io/badge/I'm%20a%20Fullstack%20%26%20Mobile%20Developer-4A154B?style=for-the-badge" alt="role" valign="middle"/> based in Finland.
 I build clean web interfaces and cross-platform Flutter apps, from real-time
 multiplayer games to interactive sky maps. Graduating from gritlab in August
-2026 and actively looking for frontend or mobile development roles in Finland. 
+2026 and actively looking for fullstack or mobile development roles in Finland. 
 
 <!-- <p align="center">
   <img src="https://img.shields.io/badge/Frontend%20%26%20Mobile%20Developer-4A154B?style=for-the-badge" alt="role" />

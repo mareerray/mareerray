@@ -152,7 +152,7 @@ multiplayer games to interactive sky maps. Graduating from gritlab in August
     </td>
     <td width="50%" valign="top">
       <p align="center">
-        <img src="https://raw.githubusercontent.com/mareerray/mareerray/main/assets/icons/colorcurio-icon.png" width="60" height="60" style="border-radius:12px;" alt="ColorCurio" /><br/>
+        <img src="https://raw.githubusercontent.com/mareerray/mareerray/main/assets/icons/colorcurio-nobg.png" width="60" height="60" style="border-radius:12px;" alt="ColorCurio" /><br/>
         <b>ColorCurio</b><br/>
         <sub>Explore color harmonies, extract palettes from images, and browse 30+ curated palettes.</sub><br/><br/>
         <a href="https://mareerray.github.io/ColorCurio/" title="Right-click to open in a new tab">

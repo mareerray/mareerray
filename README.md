@@ -91,7 +91,7 @@ multiplayer games to interactive sky maps. Graduating from gritlab in August
         <a href="https://dailytodo-xi.vercel.app/" title="Right-click to open in a new tab">
   <img src="https://img.shields.io/badge/Installable%20App-C3A6F7?style=plastic&logo=googlechrome&logoColor=1E1B2E" alt="Installable" height="14" valign="middle" />
 </a><br/>
-        <sub>Simple daily task manager with multi-language support to stay organized.</sub><br/><br/>
+        <sub>Simple daily task manager with multi-language support and voice input — speak or type your tasks and stay on top of your day.</sub><br/><br/>
         <a href="https://dailytodo-xi.vercel.app/" title="Right-click to open in a new tab">
           <img src="https://img.shields.io/badge/View%20App-181717?style=for-the-badge&logoColor=white" alt="View App" />
         </a>
@@ -101,6 +101,42 @@ multiplayer games to interactive sky maps. Graduating from gritlab in August
       </p>
     </td>
   </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+      <p align="center">
+        <img src="https://raw.githubusercontent.com/mareerray/mareerray/main/assets/icons/kotiloplay-favicon.png" width="60" height="60" style="border-radius:12px;" alt="Piscine JS Igen" /><br/>
+        <b>KotiloPlay</b><br/>
+        <a href="https://kotilo-play.vercel.app/" title="Right-click to open in a new tab">
+  <img src="https://img.shields.io/badge/Installable%20App-C3A6F7?style=plastic&logo=googlechrome&logoColor=1E1B2E" alt="Installable" height="14" valign="middle" />
+</a><br/>
+        <sub>A cozy music app where each room sets a mood, with YouTube integration for your favorite music.</sub><br/><br/>
+        <a href="https://kotilo-play.vercel.app/" title="Right-click to open in a new tab">
+          <img src="https://img.shields.io/badge/View%20App-181717?style=for-the-badge&logoColor=white" alt="View App" />
+        </a>
+        <a href="https://github.com/mareerray/KotiloPlay" title="View source on GitHub" target="_blank">
+          <img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <p align="center">
+        <img src="https://raw.githubusercontent.com/mareerray/mareerray/main/assets/icons/colorcurio-nobg.png" width="60" height="60" style="border-radius:12px;" alt="ColorCurio" /><br/>
+        <b>ColorCurio</b><br/>
+        <a href="https://mareerray.github.io/ColorCurio/" title="Right-click to open in a new tab">
+  <img src="https://img.shields.io/badge/Installable%20App-C3A6F7?style=plastic&logo=googlechrome&logoColor=1E1B2E" alt="Installable" height="14" valign="middle" />
+</a><br/>
+        <sub>Explore color harmonies, extract palettes from images, and browse 30+ curated palettes.</sub><br/><br/>
+        <a href="https://mareerray.github.io/ColorCurio/" title="Right-click to open in a new tab">
+          <img src="https://img.shields.io/badge/View%20App-181717?style=for-the-badge&logoColor=white" alt="View App" />
+        </a>
+        <a href="https://github.com/mareerray/ColorCurio" title="View source on GitHub" target="_blank">
+          <img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  
   <tr>
     <td width="50%" valign="top">
       <p align="center">
@@ -126,7 +162,7 @@ multiplayer games to interactive sky maps. Graduating from gritlab in August
         <a href="https://chess-webapp-sks0.onrender.com/" title="Right-click to open in a new tab">
   <img src="https://img.shields.io/badge/Installable%20App-C3A6F7?style=plastic&logo=googlechrome&logoColor=1E1B2E" alt="Installable" height="14" valign="middle" />
 </a><br/>
-        <sub>Real-time multiplayer chess and practice bot.</sub><br/><br/>
+        <sub>A real-time multiplayer chess game with a built-in practice bot — challenge a friend or train solo.</sub><br/><br/>
         <a href="https://chess-webapp-sks0.onrender.com/" title="Right-click to open in a new tab">
           <img src="https://img.shields.io/badge/View%20App-181717?style=for-the-badge&logoColor=white" alt="View App" />
         </a>
@@ -136,34 +172,7 @@ multiplayer games to interactive sky maps. Graduating from gritlab in August
       </p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p align="center">
-        <img src="https://raw.githubusercontent.com/mareerray/mareerray/main/assets/icons/piscine-js-igen-icon.png" width="60" height="60" style="border-radius:12px;" alt="Piscine JS Igen" /><br/>
-        <b>Piscine-js-igen</b><br/>
-        <sub>Duck Hunt-style single-player game — use your keyboard to shoot letters and spell JavaScript words.</sub><br/><br/>
-        <a href="https://mareerray.github.io/piscine-js-igen/" title="Right-click to open in a new tab">
-          <img src="https://img.shields.io/badge/View%20App-181717?style=for-the-badge&logoColor=white" alt="View App" />
-        </a>
-        <a href="https://github.com/mareerray/piscine-js-igen" title="View source on GitHub" target="_blank">
-          <img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <p align="center">
-        <img src="https://raw.githubusercontent.com/mareerray/mareerray/main/assets/icons/colorcurio-nobg.png" width="60" height="60" style="border-radius:12px;" alt="ColorCurio" /><br/>
-        <b>ColorCurio</b><br/>
-        <sub>Explore color harmonies, extract palettes from images, and browse 30+ curated palettes.</sub><br/><br/>
-        <a href="https://mareerray.github.io/ColorCurio/" title="Right-click to open in a new tab">
-          <img src="https://img.shields.io/badge/View%20App-181717?style=for-the-badge&logoColor=white" alt="View App" />
-        </a>
-        <a href="https://github.com/mareerray/ColorCurio" title="View source on GitHub" target="_blank">
-          <img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
-        </a>
-      </p>
-    </td>
-  </tr>
+  
 </table>
 
 <!-- STATS -->

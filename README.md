@@ -140,17 +140,18 @@ multiplayer games to interactive sky maps. Graduating from gritlab in August
   <tr>
     <td width="50%" valign="top">
       <p align="center">
-        <img src="https://raw.githubusercontent.com/mareerray/mareerray/main/assets/icons/budget_buddy_icon.png" width="60" height="60" style="border-radius:12px;" alt="Budgie" /><br/>
-        <b>Budgie</b><br/>
-        <a href="https://budgie-dun.vercel.app/" title="Right-click to open in a new tab">
+        <img src="https://raw.githubusercontent.com/mareerray/mareerray/main/assets/icons/tulenkki-icon-512.png" width="60" height="60" style="border-radius:12px;" alt="Tulennki" /><br/>
+        <b>Tulenkki</b><br/>
+        <a href="https://tulenkki.vercel.app/" title="Right-click to open in a new tab">
   <img src="https://img.shields.io/badge/Installable%20App-C3A6F7?style=plastic&logo=googlechrome&logoColor=1E1B2E" alt="Installable" height="14" valign="middle" />
 </a><br/>
-        <sub>Budget tracker for income, expenses, and savings goals.</sub><br/>
-        <sub>📊 spending bars & trends.</sub><br/><br/>
-        <a href="https://budgie-dun.vercel.app/" title="Right-click to open in a new tab">
+        <sub>A walking journal for logging walks, using a
+walking/rest routine,</sub><br/>
+        <sub>and reviewing progress over time.</sub><br/><br/>
+        <a href="https://tulenkki.vercel.app/" title="Right-click to open in a new tab">
           <img src="https://img.shields.io/badge/View%20App-181717?style=for-the-badge&logoColor=white" alt="View App" />
         </a>
-        <a href="https://github.com/mareerray/budget-buddy" title="View source on GitHub" target="_blank">
+        <a href="https://github.com/mareerray/tulenkki" title="View source on GitHub" target="_blank">
           <img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
         </a>
       </p>

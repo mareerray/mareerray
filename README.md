@@ -140,7 +140,7 @@ multiplayer games to interactive sky maps. Graduating from gritlab in August
   <tr>
     <td width="50%" valign="top">
       <p align="center">
-        <img src="https://raw.githubusercontent.com/mareerray/mareerray/main/assets/icons/tulenkki-icon-512.png" width="60" height="60" style="border-radius:12px;" alt="Tulennki" /><br/>
+        <img src="https://raw.githubusercontent.com/mareerray/mareerray/main/assets/icons/tulenkki-icon-512-maskable.png" width="60" height="60" style="border-radius:12px;" alt="Tulennki" /><br/>
         <b>Tulenkki</b><br/>
         <a href="https://tulenkki.vercel.app/" title="Right-click to open in a new tab">
   <img src="https://img.shields.io/badge/Installable%20App-C3A6F7?style=plastic&logo=googlechrome&logoColor=1E1B2E" alt="Installable" height="14" valign="middle" />

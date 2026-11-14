@@ -45,7 +45,8 @@ multiplayer games to interactive sky maps. Graduating from gritlab in August
   <img src="https://img.shields.io/badge/Render-B5F3E2?style=for-the-badge&logo=render&logoColor=1E1B2E" alt="Render" />
   <img src="https://img.shields.io/badge/Vercel-999999?style=for-the-badge&logo=vercel&logoColor=1E1B2E" alt="Vercel" />
   <img src="https://img.shields.io/badge/Go-99DEEF?style=for-the-badge&logo=go&logoColor=1E1B2E" alt="Go" />
-  <img src="https://img.shields.io/badge/Java-F7D099?style=for-the-badge&logo=openjdk&logoColor=1E1B2E" alt="Java" />
+  <img src="https://img.shields.io/badge/Java-F7D099?style=for-the-badge&logo=java&logoColor=1E1B2E" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-B1EBD1?style=for-the-badge&logo=python&logoColor=1E1B2E" alt="Python" />
   <img src="https://img.shields.io/badge/Spring%20Boot-C4E0B2?style=for-the-badge&logo=springboot&logoColor=1E1B2E" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/JavaScript-FBF2A5?style=for-the-badge&logo=javascript&logoColor=1E1B2E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-ACC9E8?style=for-the-badge&logo=typescript&logoColor=1E1B2E" alt="TypeScript" />
@@ -53,7 +54,7 @@ multiplayer games to interactive sky maps. Graduating from gritlab in August
   <img src="https://img.shields.io/badge/React-BFF0FD?style=for-the-badge&logo=react&logoColor=1E1B2E" alt="React" />
   <img src="https://img.shields.io/badge/HTML-F3B8A8?style=for-the-badge&logo=html5&logoColor=1E1B2E" alt="HTML" />
   <img src="https://img.shields.io/badge/CSS-A1C6E1?style=for-the-badge&logo=css3&logoColor=1E1B2E" alt="CSS" />
-  <img src="https://img.shields.io/badge/Bootstrap-C9B9E0?style=for-the-badge&logo=bootstrap&logoColor=1E1B2E" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/PostgreSQL-C9B9E0?style=for-the-badge&logo=postgresql&logoColor=1E1B2E" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MongoDB-B5D9B5?style=for-the-badge&logo=mongodb&logoColor=1E1B2E" alt="MongoDB" />
   <img src="https://img.shields.io/badge/SQLite-99B0BB?style=for-the-badge&logo=sqlite&logoColor=1E1B2E" alt="SQLite" />
   <img src="https://img.shields.io/badge/WebSocket-999999?style=for-the-badge&logo=socketdotio&logoColor=1E1B2E" alt="WebSocket" />
